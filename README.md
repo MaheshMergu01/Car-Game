@@ -3,3 +3,4 @@ A Simple Car Game built using HTML, CSS, and JavaScript, where the player contro
 
 This project demonstrates core front-end development concepts such as DOM manipulation, event handling, animations, game loops, collision detection, and responsive design using only vanilla JavaScript without any external libraries. It is a great beginner-friendly project for learning game development fundamentals in the browser.
 To Be Continued...
+Still waiting
