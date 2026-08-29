@@ -42,3 +42,43 @@ body {
   background-color: white;
   border-radius: 20px;
 }
+
+#enemycar1{
+  display: grid;
+  place-items: center;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 310px;
+  z-index: 1001;
+}
+
+#enemycar1{
+  display: grid;
+  place-items: center;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 310px;
+  z-index: 1001;
+}
+
+#enemycar1{
+  display: grid;
+  place-items: center;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 310px;
+  z-index: 1001;
+}
+
+#enemycar1{
+  display: grid;
+  place-items: center;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 310px;
+  z-index: 1001;
+}
