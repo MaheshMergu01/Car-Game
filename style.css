@@ -51,6 +51,7 @@ body {
   height: 100px;
   left: 310px;
   z-index: 1001;
+  animation: ecar1 infinite linear 3s;
 }
 
 #enemycar2{
@@ -97,3 +98,12 @@ body {
   position: relative;
   top: 15vh;
 }
+
+/* @keyframes ecar1{
+  0%{
+    top: -30vh;
+  }
+  100%{
+    top: 100vh;
+  }
+} */
