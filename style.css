@@ -53,7 +53,7 @@ body {
   z-index: 1001;
 }
 
-#enemycar1{
+#enemycar2{
   display: grid;
   place-items: center;
   position: relative;
@@ -63,7 +63,7 @@ body {
   z-index: 1001;
 }
 
-#enemycar1{
+#enemycar3{
   display: grid;
   place-items: center;
   position: relative;
@@ -73,7 +73,7 @@ body {
   z-index: 1001;
 }
 
-#enemycar1{
+#enemycar4{
   display: grid;
   place-items: center;
   position: relative;
@@ -81,4 +81,12 @@ body {
   height: 100px;
   left: 310px;
   z-index: 1001;
+}
+
+.ecarimg{
+  width: 80px;
+}
+
+.mycarimg{
+  width: 80px;
 }
