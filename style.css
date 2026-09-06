@@ -101,3 +101,39 @@ body {
   position: relative;
   top: 15vh;
 }
+
+@keyframes ecar1 {
+  0% {
+    top: -30vh;
+  }
+  100% {
+    top: 100vh;
+  }
+}
+
+@keyframes ecar2 {
+  0% {
+    top: -50vh;
+  }
+  100% {
+    top: 100vh;
+  }
+}
+
+@keyframes ecar3 {
+  0% {
+    top: -60vh;
+  }
+  100% {
+    top: 100vh;
+  }
+}
+
+@keyframes ecar4 {
+  0% {
+    top: -80vh;
+  }
+  100% {
+    top: 100vh;
+  }
+}
