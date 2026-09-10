@@ -1,3 +1,6 @@
+let t=15  //top
+let l=0   //left
+
 window.addEventListener("keydown",function(x){
 
     if(x.keycode==87){
